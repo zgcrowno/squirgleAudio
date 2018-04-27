@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="6.3.1" creationTime="1524842136872" lastPluginChange="1524842150149"
+      modifiedBy="zgcrowno" mediaId="2522d6/cada14" lastSignificantChange="16307c12745">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="120" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE viewleft="-0.78501361020733806" viewright="14.915258593939422"
+             cursorpos="1.5600000000340515"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60000002384185791" active="0"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2018"/>
+  <MASTERVOLUME fadeOut="3.9994791666666667" fadeOutType="4">
+    <FILTER type="volume" volume="1" id="0/2a4f6e40"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <TEMPOTRACK name="Global" mediaId="2522d6/7f6d6f9"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="2522d6/3a1ac2a2"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="2522d6/95e7709"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="2522d6/51bca5e"/>
+  <TRACK mediaId="2522d6/5830920" midiVProp="1" inputDevice="Digital Piano">
+    <CLIP name="Track 1 Recording 1" type="midi" start="0" length="2" offset="2"
+          sync="0" mediaId="2522d6/37caa82" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="76" b="4.005018444716006" l="1.3931029113009572" v="74" c="0"/>
+        <NOTE p="84" b="4.0133998701190645" l="1.3269107430242002" v="74" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/d0ed27f"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/1a4e83ce"
+            windowX="450" windowY="782" windowLocked="0" programNum="0" state="9019.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................fHatoH........A....f1bo4V..........fnfXXTgZrnQfZcHiK9Ei1ok.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...jbH........A....f1bo4V..........vhJJ1OcskTPf1n.k+i7u8Wa.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....J....DC.t.vL.3B.v.fK.HC.v.vL.XC.A....L..........DMURNwF...fcC........D.....ZyklaA.........fbXTR2ImToBgIzVMxgQDI.FM.........QSkjSrA...D.....F.........PzTI4T.....A....D....P.....B....D..........J....fD.gAfb..G.uA.a.7F.jAPZ.LF.K....zD.oAvZ.TF.f..Q.DF.rAPZ.7F.zAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG.sA....E.nAPd.LG.oAvX.DF.rA.H.zF.uA.Y.TF.rA.a.TF.jA.H..B.nAPX.HG.vA.H.jF.tAvb.PG.xAPc.zF.kAfa.PG.t.fB.TE.yAPY..B.h.PS.7F.xAPY..B.AA.c.PG.h..H.XF.uAfb..B.pAPX..G.gAfa.jF.yAPZ.3F.mA.H.PG.nAPY..B.zAPZ.zF.hAfb.TF.t.fK.3B.J..R.TF.gAfc.jG.f..Y.TF.vAPY.3F.jAPZ.3F.mA.H.7F.tA.H.XG.kA.a.7F.iAPZ.PG.4AfK.n.......7++++O..........................D....P.....B....b....PS.DF.yAvb.jF.1APY.7....PS.DF.yAvb.jF.1APY..B.FAPX.LF.zAva.HG.4AvA....D....fD.gAfb..G.D....rD.uA.c.7F.L....vD.uAfa.bF.f.fT.TF.rAPY.DF.yAPY.n.....T.TF.xAvX.TG.yAvb.jF.1APY.7.....T.vF.0AvX.rF.kA.Y..B.SA.c.HG.oAfa.bF.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....VNA.......P.....nMWZtE...........xgM+cnFQ5jjbWbvJsTBjX1D........DMURNkG...P.....X..........QSkjSA....D....P.....A....D....vF....A....f....fA....MAPX.LF.xAva.LG.A....3.....O.rG.aAPX.TG.zAva.3F.gAPa.TF.cAPe.3C..........9C.....A....D....fC....7.vd.rE.gAPc.PG.uAfa.DF.sAPY.zE.8AfO..........3OA....H....P.....N....vC.6AvV.DF.0A.c.7F.tAPX.zF.kAPW.zG.9..........f+H....v.....A....3.....O.rG.aAPX.TG.zAva.3F.gAPa.TF.cAPe.3C..........9y.....D....D....fC....7.vd.rE.gAPc.PG.uAfa.DF.sAPY.zE.8AfO..........3OD....T....P.....N....vC.6AvV.DF.0A.c.7F.tAPX.zF.kAPW.zG.9..........f+T....fA....A....3.....O.rG.aAPX.TG.zAva.3F.gAPa.TF.cAPe.3C..........9iA....G....D....fC....7.vd.rE.gAPc.PG.uAfa.DF.sAPY.zE.8AfO..........3OG....f....P.....D....H....PQ.DE.A....f.....S.7F.f.vT.fF.kA.a.XF..........9Cg....E....D....PA....BAva.7F.yA.c..........3OEB...X....P.....D....XD.xAPY.DG..........9ig....G....D.....B....HAPZ..B.SA.Z.TF.rAfY..........3OGB...f....P.....C....X....PS.DF.yA.c.TF.xAP.....F....XE.uA.a.TG.sAPY..........3O4....D....P.....C.....E.gAfa..........3O3....H....P.....F....HD.4A.b.DF.yAvb..........3O2....L....P.....D....P....fQ.fE.f.PL.D....vA....DAfb.jG.u.vU.TF.zA.........f+vB...P.....A....X....vR.3F.uAfX..B.x..........f+zB...f.....A....X....vR.3F.uAfX..B.y..........f+3B...v.....A....X....vR.3F.uAfX..B.z..........f+7B....A....A....P.....A....FA.V..B.x.P.....G....PD.xAPd.7B.WAPY.PG..........9CL....E....D....fA....KAfa.7F.hA.H.HC..........9SL....F....D....fA....KAfa.7F.hA.H.LC..........9iL....G....D....fA....KAfa.7F.hA.H.PC..........9yL....H....D....PA....E....7D.yAvX..B.w.P.....E.....E.oA.c.LF.nA.........f+f....P.....A....X....vR.3F.uAfX..B.w..........f+j....f.....A....X....vR.3F.uAfX..B.x..........f+n....v.....A....L....PP.zF.vA.........f+r.....A....A....b....fQ.vF.zA.H.zD.oA.d..........3OL....T....P.....E....T....vS.LG.iA.H.HC.A....T.....T.jF.zAvX.fF..........9SC....A....D....fA....KAfa.7F.hA.H.DC..........9iC....B....D....fA....KAfa.7F.hA.H.HC..........9yC....C....D....v.....AAPa..G..........9CD....D....D....vA....FA.a.PG.f.PS.jF.3A.........f+DA...PA....A....T....PA....OAvb.LF.f.vL.D....PA....PAPZ.PG.iA.Z..........3OR....D....P.....F....rD.tAva.HF.f.PL..........3OS....H....P.....F....rD.tAva.HF.f.fL..........3OT....L....P.....C....DD.sA.b..........3OU....P....P.....G....XD.rA.c..B.MAPZ.fG..........9iE....E....D....PA....G....zD.uA.Y..B.OAvb.LF.A....T.....T.jF.zAvX.fF..........9CG....A....D.....B....RAPZ.3F.mA.H.zD.uA.Y..........3Oc....H....P.....E.....E.nAPX.LG.kA.........f+3A...v.....A....f.....T.7F.yAPZ.PG.oAva.3F..........9yG....D....D....fA....FA.a.PG.f.fQ.zD..........9CH....E....D....v.....E....3D.uAPZ.LG.kAP.....E....LD.uA.a.7F.xA.........f+bA...fA....A....L....PP.zF.vA.........f+fA...vA....A....b....fQ.vF.zA.H.zD.oA.d..........3OY....f....P.....D....f....fQ.jF.rA.c.TF.xA.H.DC.A....X....vR.3F.uAfX..B.w..........f+DB...P.....A....X....vR.3F.uAfX..B.x..........f+HB...f.....A....X....vR.3F.uAfX..B.y..........f+LB...v.....A....P....vQ.DF.oAfa..........3Oz....P....P.....D....f....fQ.jF.rA.c.TF.xA.H.HC.A....X....vR.3F.uAfX..B.w..........f+PB...PA....A....X....vR.3F.uAfX..B.x..........f+TB...fA....A....X....vR.3F.uAfX..B.y..........f+XB...vA....A....P....vQ.DF.oAfa..........3O0....f....P.....B....b....fQ.vF.zA.H.zD.oA.d.D....vA....SAPY.HG.u..T.DF.xA.........f+bB...P.....A....b....PS.jF.3A.H.DC.u.fL..........3O1....H....P.....B....f....fQ.TF.kA.Y.HF.gAvX.rF.A....L....PP.zF.vA.........f+nA...v.....A....b....fQ.vF.zA.H.zD.oA.d..........3Oa....P....P.....B....f....PR.3F.yAPY.HG.zA.H.DC.A....X....vR.3F.uAfX..B.w..........f+fB...PA....A....X....vR.3F.uAfX..B.x..........f+jB...fA....A....H.....B....IAfa.LG.kAfb.PG.f.fL.D....fA....KAfa.7F.hA.H.DC..........9iJ....G....D....fA....KAfa.7F.hA.H.HC..........9yJ....H....D....v.....F....TE.tAPZ.LG.uAfa.D....PB....PAPZ.PG.iA.Z..B.MAPZ.fG..........9Sf....E....D.....B....WAPX.XG.kA.H..E.uAvb..........3OBB...X....P.....C.....E.gAfa..........3OCB...b....P.....A....T....vQ.vF.oA.Y.TF.A....P.....U.jF.sAPY..........3O9A...D....P.....B....b....fU.jF.hAfb.DF.zAva.D.....A....RAPX.PG.kA.........f+7G...f.....A....T.....Q.TF.vA.c.fF..........9Cf....C....D.....B....E....TD.tAfc..B.w.P.....F....DD.zA.c.DF.iAvZ..........3OdA...D....P.....E....PD.kAvX.DF.4A.........f+XF...f.....A....b....vT.TG.yA.c.DF.oAfa..........3OtA...L....P.....G....HE.kA.a.TF.gAvb.TF..........9id....D....D....vA....AA.c.PG.f..S.XG.rA.........f+HF...PA....A....b.....Q.TF.iA.H.vD.1A.a..........3OpA...X....P.....G....LE.0Avb..B.LAfc.vF..........9ib....G....D.....B....SAPc.LG.MAva.HG.vA.Z..........3O1A...f....P.....H....T....PQ.3F.1A.H.HC.A....X....PP.PG.zAPX.LF.qA.........f+7E...P.....A....T.....Q.TF.iAPX.jG..........9yY....B....D....vA....SAPc.LG.zAPX.jF.tA.........f+7F...v.....A....b....fT.TF.rAPY.DF.yAPY..........3O6A...P....P.....G....DD.zA.c..B.LAfc.vF..........9yX....E....D....vA....DAPY.LF.f..S.XG.rA.........f+rF...fA....A....b....vT.TG.yA.H.vD.1A.a..........3OyA...b....P.....H....LE.0Avb.zD.uAfb..G.nA.........f+bG....B....A....f....PA....EAfa.XG.f.vL.D....fA....AA.c.PG.gAvX.rF..........9CX....A....D....PA....DAPY.LF.gAPd..........3OnA...H....P.....G....LE.0Avb.PG.gAPZ.3F..........9Cb....C....D....vA....RAPY.vF.kAPX.LG.kA.........f+vG....A....A....b....PP.PG.zA.H.vD.1A.a..........3OjA...T....P.....G....PD.kAvX..B.LAfc.vF..........9Ca....F....D....vA....SAPc.LG.f..S.XG.rA.........f+PG...vA....A....f....vT.TG.yAPS.7F.xA.b.fF..........9Cd....H....D.....B....E....TD.tAfc..B.z.P.....F....DD.zA.c.DF.iAvZ..........3OgA...D....P.....E....PD.kAvX.DF.4A.........f+jF...f.....A....b....vT.TG.yA.c.DF.oAfa..........3OwA...L....P.....G....HE.kA.a.TF.gAvb.TF..........9Se....D....D....vA....AA.c.PG.f..S.XG.rA.........f+TF...PA....A....b.....Q.TF.iA.H.vD.1A.a..........3OsA...X....P.....G....LE.0Avb..B.LAfc.vF..........9Sc....G....D.....B....SAPc.LG.MAva.HG.vA.Z..........3O4A...f....P.....D....T....PS.7F.jA.H.DC.A....L....PP.zF.vA.........f+3C...P.....A....P....fT.DF.zAPY..........3O5....H....P.....F....rD.tAva.HF.f.PL..........3OFA...L....P.....F....rD.tAva.HF.f.fL..........3OBA...P....P.....D....T....PS.7F.jA.H.HC.A....L....PP.zF.vA.........f+7C...PA....A....P....fT.DF.zAPY..........3O6....X....P.....F....rD.tAva.HF.f.PL..........3OGA...b....P.....F....rD.tAva.HF.f.fL..........3OCA...f....P.....D....T....PS.7F.jA.H.LC.A....L....PP.zF.vA.........f+.D...P.....A....P....fT.DF.zAPY..........3O7....H....P.....F....rD.tAva.HF.f.PL..........3OHA...L....P.....F....rD.tAva.HF.f.fL..........3ODA...P....P.....D....T....PS.7F.jA.H.PC.A....L....PP.zF.vA.........f+DD...PA....A....P....fT.DF.zAPY..........3O8....X....P.....F....rD.tAva.HF.f.PL..........3OIA...b....P.....F....rD.tAva.HF.f.fL..........3OEA...f....P..........D.....QSkjSzA...veB........A....f1bo4V..........3rpdc48tzxQV5zc4u3iSEJyI........PzTI4Dc....A....LaB........DMURNMG...P.....X..........QSkjSA....D....P.....A....D.7V...5k...H.7V..X..P.fTv.nMWZtAzA.A.DU03u7HtEmyzf8VqCLd.U9fAPT.B.CPzTI4DPi.9AC.D..sA.sABBAvoEfP.H..zHfOvTPXgJWjzSjDGQbRvLMM67kENafdBv2.zKfewY.MB.j.5M.T.HiE.rU.BAf.v.zMmbvA7ND....9C.fAfAY7C..uwO..1CHPkO..fV97QAP.xC.A..iBxCf.P..FNHG..0fL....xE.eCPK.7.fKvDC.nS+..P.D.vL.3AfsA.l.7BAzC..CP..lIPOAB.A.0O.t.HaL.ft8C.fC...X.HeD.t7.N.ND..uAxCf.P..QC3ALR..uGHK.fofbAH+I.vT8CXG.F..vMHKUvb+..f67CXN.F..PBHK.PDfrBv..xLfM.3i..Py.dB.X.962uOUoREf7D3A.v.GNbX8.d.M.L..PJH+AfQfL.H.D.faCxAf7T..xNHG.D.D7zO..fpfLi.fuC.fA..lA5E.A.HmL.v28C.fS..fLA3...3Cr.3O....A3KA.jM.d.3C.P..Y.HS.f1f7FPaBzBA.3OBMj.ATP.hsFPKXf......B..fMvGEbkZk5CQl6nOx+pe9vaFw6yXoVoOcaaK+7sRs5CF5EJ.9.LLA0K3er.Pm.9.u.N.rA..fA...BRm.MfvwATy.MP..9C3Dj4GzpxJ9.GFS5yqnRoO76669zbSb4yjA.wOQNZN9f1a14C3DvB...F..UEPC.tEYABHf..Xn.D.g.CP..jf.B.P+Bz..MLP..zB.M.3G7.3B.v.b8nv9BhC..DXmDP.A.TKKf....fPs.EZgMWYxAzBH.EZyImKfXjPD.xECzTczUFPGPvPu0lXF.xCEXDVfzTZ3ATDCLUZ5UFPsfPSuIWYfDDczk.Hc.RNE.xTvUVYjADH.Av.UUUJAAj+.A.ob.B..7OH..nc...vn...gPU.C..P.D.f+.RGf3AP..BBfSPB.MFnxT.f+B....Dfx.dBn.D.frCH7.fB.o.3CTFfNBfdAtDXL.PC.IR.Ar.PE.zS.LCHH.LLfOvuf3DHOAD.ff.HI.lM.iR....v+BrG.A.Hm.BJ.A.HH.RB.3.PJ.dIx.vCfefLfIKH..BTfDEP..BBfj..P.jBA4L.p.BB.OF3S7K.R.xIfC.J...3b7a.S..H..7V...3bHS.T..H..9.x.9C+Z1KhFOXGGTt.hSA.AL...RPAs4..b8H7.3D.A.H2CB9.A.HH.RB.DBPJ.rG.oOPxL.rGElO.cPA...jBWeOBR3..Jbc8.3IAHB.f..fJ.D.f5o..1vugcGX..hVfrE.i.zBfufjC.z0ivK3A.DHq.BK.A.HH.RB.PBPJ.rG.Ko.3QgKfJ4.35QA9.nj.wIfm.PIfOfL...vRF..C.NBRBfIfTAXaETM.tCPiAPOiFW..9SXRAF.frHHLB.J.s.3IfR.27CfBBD.fbBHn.PJ.o.Xo.dCZAvKfifVBQGXv.D.fOvffefV.rBPf.F.BsJHsANB..d.fRd.6.DIfQCnI..Gfj.3..DHJ.lE.A.v7...f3u3OjV.c..H..d.n..vfhB.9.3p.YofnGP.d.RBfK.JfGQTA7A.f..3ADE3QfR.f..H..9Fn.fFfbB.A.dCPCvImcRA.D.Kb8fug0E.Aj1W.VE..OhJA.LP.k+.rGEN9JH.BfYlYHJYAbA..CPI3CD5.D.f0THS.UCP..jc.c.vI..gfj.ndAdEnDPg..B..EkAqGkg.8KVrBNDQAfgfbBXn...faQTAbH.f..PQAH.gGAVAbB.f..fnfzkA.3u.xb..9aYV.F..ZM.1.zB.hBP..bTk1aHSX5eADf+f7Bnn.t.0G.fUINB5G.N..B.fCRT.IFP..LLArppI8GfG.RefA.H4ABJ.DHPK.rIA....YMP.jnI.A.Hk.hI.HHPJ.nI.dJ3ETT.CB.H.DDC.JR..ILIpAfPfWfHA7G.f..fd.zg.nRZJAD.f7EHfE.f..D..+Q....3G.X.9A.X.b.fG5C..lpO..t...jc..vZCrzAfG...dA3I..3KbAPS.z.feD.fMUHG.NIB.B.FoT3Qr..ZARHfifGB3LyLOHpA.fWfL.3H3g.nv0SDlW..HFHC.NBdH...fqo0BfYfr.3H3g.HEtNoBC.pARGf4wAr8SABAkFaKLHZCF.gTbHFCfa.s.3QjK.xAdEd.fcfWgG.nGPdbl5fy..gWAM.rEPy.9AYJ.jBWWnz.vWfufG..vJUPX2ALF.f..3GzyQzW1FA.vYfL.3H3AP.DBEgTA.qAjB.0S3MPC.uArG.Bf3Gne.yA.H..TO.B.3G3Q.2A.H..dDd.vdfzA3..PvrBd..DdEz..W.gB3QrU.fA.H..dDd..YfzA3R3A.nARGfKgG.vFHc.lGg2.M..GHc.lG.BP3GTQ.zA.H..dDZB.dfzA3R3A.7ARGfC..AQCPC...u4.HFDtCzD.D9rFqA.PWfL.3Hrk.XOJ7hlF.gARGfifG.AfHpHxJ.TFPJ.9B3FTpB...oAx.fyfGfvCH8DEff4Q3CPi.DWOpmRJ.wARGf4Af.D9AzDPc..B.fmvdIOd.4A.H..dBd.7d.zGHIr16qAL3...T+.0L.gCPC.H.fefdgcEfdXzfA.3uAFGvaAfPfj.nd.D.fePOAXD.fBvZPAnQ.fsIDF.DCAdAFAfNfYB.Afxk..PYaBTJ.M.f..9AU0Vu.5A3KLY.CA.H..nG.A.3GzS.GA.n..tESFIEIlhQu.TT.M.f..9AUE.P..B..5A3KLY.DA.H..nG.A.3GzS.HA.n..tES9n1f+wj.DDPTAHcfuvjATD.f..fd.D.fevjAjD.fB.3VLoL.AB.fGvjAshA..zM+..P7r5VgAK3brvPK8j4fOPkf8j..rxOCRLP.LRTiHE.r.jBfi.JB.XM+Xd.IBxIffR.s..H..NBnH..78yaPBF.fbBHn.fK.s.3IfBvd.D.fbBHn.vK.o.HxCH6.e.P7BD.fmPPBLwOQ.DFfA.H.ARP..CPK.NBnH.fT7yaWBF.fbBHn.PL.s.3HfBH..RGf3AP..BBfj..x.jBfuAJPENfzBDr.MPPgAz.B...vOxy.q5.q4VXhAXE.BP..B.H..vFfL.P.LvXz4VZQ8OP9rLYC5KXNB7gBLWZ0cNABZvYvQ2XYQUShk2BMHVYEF..........A.....P..........."/>
+    <FILTER type="level" id="0/329e404"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="2522d6/381418b5" midiVProp="1">
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <FILTER type="volume" id="0/339ba675"/>
+    <FILTER type="level" id="0/e7f052b"/>
+  </TRACK>
+  <TRACK mediaId="2522d6/12755779" midiVProp="1">
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <FILTER type="volume" id="0/2f29e0be"/>
+    <FILTER type="level" id="0/163a20f7"/>
+  </TRACK>
+  <TRACK mediaId="2522d6/a5a451f" midiVProp="1">
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <FILTER type="volume" id="0/4d9cdd8"/>
+    <FILTER type="level" id="0/1cb9d438"/>
+  </TRACK>
+  <TRACK mediaId="2522d6/3f2678ab" midiVProp="1">
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <FILTER type="volume" id="0/bf6d040"/>
+    <FILTER type="level" id="0/20e2f1aa"/>
+  </TRACK>
+  <TRACK mediaId="2522d6/14be0d97" midiVProp="1">
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <FILTER type="volume" id="0/cf56245"/>
+    <FILTER type="level" id="0/2354e7ff"/>
+  </TRACK>
+  <TRACK mediaId="2522d6/24f726a7" midiVProp="1">
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <FILTER type="volume" id="0/302dd571"/>
+    <FILTER type="level" id="0/3df33e23"/>
+  </TRACK>
+  <TRACK mediaId="2522d6/1768163c" midiVProp="1">
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <FILTER type="volume" id="0/2ebd3661"/>
+    <FILTER type="level" id="0/1d9b2fdf"/>
+  </TRACK>
+  <DEVICESEX>
+    <INPUTDEVICE name="Input 1" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="Input 2" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="Digital Piano" targetTrack="2522d6/5830920" targetIndex="0"
+                 armed="1"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+</EDIT>
