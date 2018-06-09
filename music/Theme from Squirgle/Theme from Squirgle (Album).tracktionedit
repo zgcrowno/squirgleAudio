@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="6.3.1" creationTime="1514927401148" lastPluginChange="1515181332202"
+      modifiedBy="zgcrowno" mediaId="4f3cad/32eb175" lastSignificantChange="163e65b5586">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="150" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE currentSidePanel="Files" cursorpos="140.0013933943635" viewleft="0"
+             viewright="230.17638591233825" loopPlayback="0" markIn="44.800000000000004"
+             markOut="25.600000000000001"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60000002384185791" active="0"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2018"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="0.97530990839004517" id="0/1e8fad15"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="Input 1" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="Input 2" targetIndex="-1" armed="0"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="4f3cad/10908f8f"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="4f3cad/798eb4"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="4f3cad/247939a0"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="4f3cad/30e82ae"/>
+  <TRACK mediaId="4f3cad/d3655c2" midiVProp="1" inputDevice="">
+    <CLIP name="Track 1 Recording 1" type="midi" start="0" length="3.2000000000000002"
+          offset="3.2000000000000002" sync="0" mediaId="4f3cad/24bb386"
+          colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="3.2000000000000002"
+          length="3.2000000000000002" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/711f57" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="6.4000000000000004"
+          length="3.2000000000000011" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/33cf7a" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="9.6000000000000014"
+          length="3.2000000000000028" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/9b1543" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="12.800000000000001"
+          length="3.2000000000000064" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/2715d06" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="16.000000000000007"
+          length="3.2000000000000064" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/3e0a796" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="19.200000000000017"
+          length="3.2000000000000099" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/212a035" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="22.400000000000031"
+          length="3.2000000000000171" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/13d9254" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="25.600000000000001"
+          length="3.2000000000000099" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/2988f7" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="28.800000000000011"
+          length="3.2000000000000099" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/276726b" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="32.000000000000021"
+          length="3.2000000000000171" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/8964f4" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="35.200000000000003"
+          length="3.2000000000000171" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/2cc45c4" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="38.400000000000027"
+          length="3.2000000000000242" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/cb16ce" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="41.600000000000051"
+          length="3.2000000000000242" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/4a8d7" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="44.800000000000011"
+          length="3.2000000000000242" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/286d4ad" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="48.000000000000036"
+          length="3.2000000000000242" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/37b4dde" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="51.20000000000006"
+          length="3.2000000000000242" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/1e112a9" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="54.400000000000084"
+          length="3.2000000000000242" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/6ec5e6" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="57.600000000000001"
+          length="3.2000000000000384" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/173175c" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="60.800000000000047"
+          length="3.2000000000000526" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/1a8a0b3" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="64" length="3.2000000000000597"
+          offset="3.2000000000000002" sync="0" mediaId="4f3cad/164a2cb"
+          colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="67.20000000000006"
+          length="3.2000000000000597" offset="3.2000000000000002" sync="0"
+          mediaId="4f3cad/103478" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="70.400000000000006"
+          length="3.2000000000000739" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/29f6de7" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="73.600000000000009"
+          length="3.2000000000001023" offset="3.1999999999999886" sync="0"
+          mediaId="4f3cad/2eef443" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="83.200000000000003"
+          length="3.2000000000000881" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/26f7dee" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="86.400000000000006"
+          length="3.2000000000000881" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/2d4fa98" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="89.600000000000094"
+          length="3.2000000000000881" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/272cba9" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="92.800000000000182"
+          length="3.2000000000001023" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/334bb4e" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="96" length="3.2000000000001023"
+          offset="3.2000000000000028" sync="0" mediaId="4f3cad/18a91f1"
+          colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="99.200000000000102"
+          length="3.2000000000001023" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/1c9d055" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="102.4000000000002"
+          length="3.2000000000001165" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/38b90af" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="105.60000000000032"
+          length="3.2000000000001165" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/88ad27" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="108.80000000000044"
+          length="3.2000000000001165" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/2716e48" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="112.00000000000055"
+          length="3.2000000000001165" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/1085e10" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="121.60000000000001"
+          length="3.2000000000001307" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/12c7dbb" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="124.80000000000001"
+          length="3.2000000000001307" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/3350fbb" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="128.00000000000014"
+          length="3.2000000000001307" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/d536a1" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 1 Recording 1" type="midi" start="131.20000000000027"
+          length="7.9999999999997442" offset="3.2000000000000028" sync="0"
+          mediaId="4f3cad/3b6c49f" colour="70eecf90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="48" b="8.1138049149462859" l="2.9023544216761366" v="68" c="0"/>
+        <NOTE p="52" b="10.998261897083921" l="1.0256041592219844" v="72" c="0"/>
+        <NOTE p="53" b="12.038015357292807" l="2.0232680754270405" v="64" c="0"/>
+        <NOTE p="60" b="14.034039998268327" l="2.5448442023480311" v="66" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/697d90b"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/2d024e67"
+            windowX="403" windowY="173" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........L7MIrgFExqRSJgYKvabk3hk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........TiXOD5peAAP3NmLQbPH7U7Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........weBgvZX.5fjr6McJNqcJ65h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........aT6gbv9M8xTfbYhsnkZsyhC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA..........VxeLYXG3SM8IdizunOuowFk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.P.CMTtGBPJ4P7dxzBw5NptAF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAQt2Z6RNLvhE4oDtKtrj3HHL.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.AZ6C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/17efc5f3"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="4f3cad/1fc146fe" midiVProp="1" inputDevice="">
+    <CLIP name="Track 2 Recording 1" type="midi" start="12.800000000000001"
+          length="3.1999999999999993" offset="4.826933522235076" sync="0"
+          mediaId="4f3cad/95bd99" colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 2 Recording 1" type="midi" start="19.200000000000003"
+          length="3.2000000000000028" offset="4.8269335222350769" sync="0"
+          mediaId="4f3cad/1e8a173" colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 2 Recording 1" type="midi" start="25.600000000000001"
+          length="3.2000000000000099" offset="4.8269335222350769" sync="0"
+          mediaId="4f3cad/3667e6" colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 2 Recording 1" type="midi" start="32" length="3.2000000000000171"
+          offset="4.8269335222350769" sync="0" mediaId="4f3cad/321306b"
+          colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 2 Recording 1" type="midi" start="57.600000000000001"
+          length="3.2000000000000242" offset="4.8269335222350733" sync="0"
+          mediaId="4f3cad/1046643" colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 2 Recording 1" type="midi" start="64" length="3.2000000000000313"
+          offset="4.8269335222350662" sync="0" mediaId="4f3cad/2a6db47"
+          colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 2 Recording 1" type="midi" start="96" length="3.1999999999999886"
+          offset="4.8269335222350378" sync="0" mediaId="4f3cad/209611f"
+          colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 2 Recording 1" type="midi" start="102.40000000000001"
+          length="3.2000000000000028" offset="4.8269335222350378" sync="0"
+          mediaId="4f3cad/1419d05" colour="70cfee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.239784966844582" l="0.43967942299786955" v="63"
+              c="0"/>
+        <NOTE p="74" b="13.703861338708066" l="0.48546801146585494" v="62"
+              c="0"/>
+        <NOTE p="76" b="14.167109382378385" l="0.58035926485899836" v="51"
+              c="0"/>
+        <NOTE p="74" b="14.644996508413442" l="0.49998122616671026" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.127477734622062" l="0.98431981808971614" v="77"
+              c="0"/>
+        <NOTE p="81" b="16.111797552711778" l="1.0760132892755792" v="74" c="0"/>
+        <NOTE p="76" b="17.144866375292168" l="0.98237818572670221" v="69"
+              c="0"/>
+        <NOTE p="79" b="18.157422128987946" l="2.1146858454449102" v="68" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/3c9c0eb9"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/33ba2685"
+            windowX="432" windowY="794" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........fdxEy2qN1uQTZK2yCxp0Kkk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........D4OcR77evKQh5Zp.zEfc75Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........UBRcZQGT0PDpIkka+cD7s5h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........H8PY8Cd0xKDk4rOSy2X.sgC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA.........f30I55bIBvMQoDeKnhL.FzFk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.PnkLcnwMEb7QR1cvvOsPTcLF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAwq7wfGb6MECY39WQaRSsKAL.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.AZ6C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/159dd8ad"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="4f3cad/1612f88c" midiVProp="1" inputDevice="">
+    <CLIP name="Track 3 Recording 2" type="midi" start="16" length="3.2000000000000028"
+          offset="3.1970711826525982" sync="0" mediaId="4f3cad/1dedb7e"
+          colour="7090ee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="9.1482682961613193" l="0.42989335488528013" v="69"
+              c="0"/>
+        <NOTE p="74" b="9.5956616515867665" l="0.53738942893687636" v="60"
+              c="0"/>
+        <NOTE p="76" b="10.12555108045845" l="0.56170600233599544" v="65" c="0"/>
+        <NOTE p="74" b="10.573332670504811" l="0.56741659704130143" v="65"
+              c="0"/>
+        <NOTE p="72" b="11.095649064995001" l="0.94751158321741968" v="72"
+              c="0"/>
+        <NOTE p="69" b="12.02566064825433" l="1.9425460696220398" v="68" c="0"/>
+        <NOTE p="67" b="13.965706718048665" l="2.1823644154937938" v="71" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 3 Recording 2" type="midi" start="28.800000000000001"
+          length="3.2000000000000064" offset="3.1970711826525964" sync="0"
+          mediaId="4f3cad/1b6350e" colour="7090ee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="9.1482682961613193" l="0.42989335488528013" v="69"
+              c="0"/>
+        <NOTE p="74" b="9.5956616515867665" l="0.53738942893687636" v="60"
+              c="0"/>
+        <NOTE p="76" b="10.12555108045845" l="0.56170600233599544" v="65" c="0"/>
+        <NOTE p="74" b="10.573332670504811" l="0.56741659704130143" v="65"
+              c="0"/>
+        <NOTE p="72" b="11.095649064995001" l="0.94751158321741968" v="72"
+              c="0"/>
+        <NOTE p="69" b="12.02566064825433" l="1.9425460696220398" v="68" c="0"/>
+        <NOTE p="67" b="13.965706718048665" l="2.1823644154937938" v="71" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 3 Recording 2" type="midi" start="60.800000000000004"
+          length="3.1999999999999957" offset="3.1970711826526141" sync="0"
+          mediaId="4f3cad/217d0a7" colour="7090ee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="9.1482682961613193" l="0.42989335488528013" v="69"
+              c="0"/>
+        <NOTE p="74" b="9.5956616515867665" l="0.53738942893687636" v="60"
+              c="0"/>
+        <NOTE p="76" b="10.12555108045845" l="0.56170600233599544" v="65" c="0"/>
+        <NOTE p="74" b="10.573332670504811" l="0.56741659704130143" v="65"
+              c="0"/>
+        <NOTE p="72" b="11.095649064995001" l="0.94751158321741968" v="72"
+              c="0"/>
+        <NOTE p="69" b="12.02566064825433" l="1.9425460696220398" v="68" c="0"/>
+        <NOTE p="67" b="13.965706718048665" l="2.1823644154937938" v="71" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 3 Recording 2" type="midi" start="99.200000000000003"
+          length="3.2000000000000028" offset="3.1970711826525928" sync="0"
+          mediaId="4f3cad/edfe23" colour="7090ee90">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="9.1482682961613193" l="0.42989335488528013" v="69"
+              c="0"/>
+        <NOTE p="74" b="9.5956616515867665" l="0.53738942893687636" v="60"
+              c="0"/>
+        <NOTE p="76" b="10.12555108045845" l="0.56170600233599544" v="65" c="0"/>
+        <NOTE p="74" b="10.573332670504811" l="0.56741659704130143" v="65"
+              c="0"/>
+        <NOTE p="72" b="11.095649064995001" l="0.94751158321741968" v="72"
+              c="0"/>
+        <NOTE p="69" b="12.02566064825433" l="1.9425460696220398" v="68" c="0"/>
+        <NOTE p="67" b="13.965706718048665" l="2.1823644154937938" v="71" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/33e48ef7"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/10fac740"
+            windowX="460" windowY="794" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........nSe5A0Dbx1R9RKvyG7EO9tk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........7D+8mwL6FfPXpHm3rgPYt5Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........kZiZ8u+8EwjoD5xipNCkn6h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........Xu7yOFJ3H3Tsz9HYJLN7wiC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA..........KgQaonT1JH04Mx5iuGE11Fk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.PjvnpYFpix4Qw9OIciJLwbHF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAAD5vDJgL4EGIqLHCG13eVEL.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.AZ6C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/2b79c4f2"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="4f3cad/1e6d3eca" midiVProp="1" inputDevice="">
+    <CLIP name="Track 4 Recording 1" type="midi" start="22.400000000000006"
+          length="3.1999999999999957" offset="4.7975185186878555" sync="0"
+          mediaId="4f3cad/260991f" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="35.200000000000003"
+          length="3.2000000000000028" offset="4.7975185186878555" sync="0"
+          mediaId="4f3cad/34f3d64" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="38.400000000000006"
+          length="3.2000000000000099" offset="4.7975185186878555" sync="0"
+          mediaId="4f3cad/2c2988c" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="41.600000000000023"
+          length="3.2000000000000171" offset="4.7975185186878555" sync="0"
+          mediaId="4f3cad/100aa12" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="67.200000000000003"
+          length="3.2000000000000028" offset="4.7975185186878448" sync="0"
+          mediaId="4f3cad/36801df" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="70.400000000000006"
+          length="3.2000000000000028" offset="4.7975185186878448" sync="0"
+          mediaId="4f3cad/28a1bc9" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="73.600000000000009"
+          length="3.2000000000000028" offset="4.7975185186878448" sync="0"
+          mediaId="4f3cad/c684f0" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="105.60000000000001"
+          length="3.2000000000000028" offset="4.7975185186878377" sync="0"
+          mediaId="4f3cad/21ed0a" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="108.80000000000001"
+          length="3.1999999999999886" offset="4.7975185186878377" sync="0"
+          mediaId="4f3cad/2cdfc01" colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 4 Recording 1" type="midi" start="112" length="3.2000000000000028"
+          offset="4.7975185186878377" sync="0" mediaId="4f3cad/ec507d"
+          colour="7090eecf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="72" b="13.121299226358033" l="0.45981859264429659" v="74"
+              c="0"/>
+        <NOTE p="74" b="13.573981051039382" l="0.53979022894054651" v="59"
+              c="0"/>
+        <NOTE p="76" b="14.048845509704634" l="0.62502533313818276" v="55"
+              c="0"/>
+        <NOTE p="74" b="14.556428571403458" l="0.55762622912880033" v="67"
+              c="0"/>
+        <NOTE p="72" b="15.063667663661263" l="1.0726388916373253" v="60" c="0"/>
+        <NOTE p="69" b="16.053621584022849" l="1.9603687041671947" v="67" c="0"/>
+        <NOTE p="72" b="18.008990288534633" l="2.3372223571641371" v="64" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/15999996"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/16a8c40b"
+            windowX="439" windowY="794" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........DGo71nw.EMP79AVjuwFaZqk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........7IB+oEA2dlQiJnV+qM0pv7Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........38jWY2Vh8WTqEoXur7Y8v6h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........BEpBsiG9WHzo96zACRHrdfC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA.........fKTsEU3DAKHsYU0xmiTukzFk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.PjrjGaL21ooPUNV+z0omaUAF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAgywpBRPvkMGgaw81nuMuf0L.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.AZ6C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/ab23785"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="4f3cad/2d36ab1e" midiVProp="1" inputDevice="">
+    <CLIP name="Track 5 Recording 1" type="midi" start="76.600000000000009"
+          length="9.8000000000000256" offset="6.1795849118232695" sync="0"
+          mediaId="4f3cad/8e4e95" colour="7090cfee">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <CONTROL b="9.4423456140106907" type="64" val="16256" metadata="0"/>
+        <CONTROL b="15.517126422423161" type="64" val="0" metadata="0"/>
+        <NOTE p="55" b="15.572410841054506" l="7.7598649018909782" v="51" c="0"/>
+        <NOTE p="59" b="15.784766019136867" l="7.5273458351148292" v="49" c="0"/>
+        <NOTE p="62" b="16.047518500058203" l="7.2687663213582709" v="64" c="0"/>
+        <CONTROL b="16.1769424028939" type="64" val="16256" metadata="0"/>
+        <NOTE p="88" b="20.047427762114665" l="1.5151610545581207" v="69" c="0"/>
+        <NOTE p="86" b="21.547256526468544" l="1.5301644161809236" v="65" c="0"/>
+        <NOTE p="91" b="23.555062735035307" l="2.8218217164976522" v="43" c="0"/>
+        <CONTROL b="23.570062735165692" type="64" val="0" metadata="0"/>
+        <NOTE p="88" b="23.632190904977023" l="2.8477534191915765" v="65" c="0"/>
+        <NOTE p="84" b="23.940007321002184" l="2.6351384748704731" v="65" c="0"/>
+        <NOTE p="60" b="23.999879257684796" l="7.0727304113097489" v="59" c="0"/>
+        <NOTE p="53" b="24.027631993453241" l="6.8193200347013772" v="64" c="0"/>
+        <NOTE p="57" b="24.070158094913921" l="6.7243853973923251" v="50" c="0"/>
+        <CONTROL b="24.080190596218443" type="64" val="16256" metadata="0"/>
+        <NOTE p="76" b="28.033921611426621" l="2.1053984080208465" v="67" c="0"/>
+        <NOTE p="74" b="30.041634688317998" l="1.2301328062312678" v="65" c="0"/>
+        <NOTE p="79" b="31.697365134536511" l="7.4724898993736133" v="50" c="0"/>
+        <CONTROL b="31.744924804592728" type="64" val="0" metadata="0"/>
+        <NOTE p="76" b="31.832328676177411" l="7.2602381865726784" v="63" c="0"/>
+        <NOTE p="72" b="32.139868286253176" l="6.965049744467251" v="69" c="0"/>
+        <CONTROL b="32.30179200349491" type="64" val="16256" metadata="0"/>
+        <CONTROL b="41.899377632002569" type="64" val="0" metadata="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 5 Recording 1" type="midi" start="115" length="9.8000000000000256"
+          offset="6.1795849118232553" sync="0" mediaId="4f3cad/2f96657"
+          colour="7090cfee">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <CONTROL b="9.4423456140106907" type="64" val="16256" metadata="0"/>
+        <CONTROL b="15.517126422423161" type="64" val="0" metadata="0"/>
+        <NOTE p="55" b="15.572410841054506" l="7.7598649018909782" v="51" c="0"/>
+        <NOTE p="59" b="15.784766019136867" l="7.5273458351148292" v="49" c="0"/>
+        <NOTE p="62" b="16.047518500058203" l="7.2687663213582709" v="64" c="0"/>
+        <CONTROL b="16.1769424028939" type="64" val="16256" metadata="0"/>
+        <NOTE p="88" b="20.047427762114665" l="1.5151610545581207" v="69" c="0"/>
+        <NOTE p="86" b="21.547256526468544" l="1.5301644161809236" v="65" c="0"/>
+        <NOTE p="91" b="23.555062735035307" l="2.8218217164976522" v="43" c="0"/>
+        <CONTROL b="23.570062735165692" type="64" val="0" metadata="0"/>
+        <NOTE p="88" b="23.632190904977023" l="2.8477534191915765" v="65" c="0"/>
+        <NOTE p="84" b="23.940007321002184" l="2.6351384748704731" v="65" c="0"/>
+        <NOTE p="60" b="23.999879257684796" l="7.0727304113097489" v="59" c="0"/>
+        <NOTE p="53" b="24.027631993453241" l="6.8193200347013772" v="64" c="0"/>
+        <NOTE p="57" b="24.070158094913921" l="6.7243853973923251" v="50" c="0"/>
+        <CONTROL b="24.080190596218443" type="64" val="16256" metadata="0"/>
+        <NOTE p="76" b="28.033921611426621" l="2.1053984080208465" v="67" c="0"/>
+        <NOTE p="74" b="30.041634688317998" l="1.2301328062312678" v="65" c="0"/>
+        <NOTE p="79" b="31.697365134536511" l="7.4724898993736133" v="50" c="0"/>
+        <CONTROL b="31.744924804592728" type="64" val="0" metadata="0"/>
+        <NOTE p="76" b="31.832328676177411" l="7.2602381865726784" v="63" c="0"/>
+        <NOTE p="72" b="32.139868286253176" l="6.965049744467251" v="69" c="0"/>
+        <CONTROL b="32.30179200349491" type="64" val="16256" metadata="0"/>
+        <CONTROL b="41.899377632002569" type="64" val="0" metadata="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/17684879"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/12f0bd0b"
+            windowX="466" windowY="794" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........H+Ds2+A+gjQTJOR3NWETInk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........f+VzYMjKhgQE9.CbVU1qV+Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........JCuqKHP1KSTreiR2DqX8d3h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........1Bd0JNGxhbzmYFBP7RCPVgC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA.........fLFSYbCV+IG4nk7wXhrFLzFk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.PXNg.hMhA2KP9JWOfcAfkxJF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAwgGmI4QyidDE5J2bsT.e2uL.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.AZ6C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/2a8cc8c4"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="4f3cad/28731790" midiVProp="1" inputDevice="">
+    <CLIP name="Track 6 Recording 1" type="midi" start="86.400000000000006"
+          length="3.1999999999999886" offset="6.1130682743077784" sync="0"
+          mediaId="4f3cad/349836b" colour="709090ee">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <CONTROL b="13.081360343457618" type="64" val="16256" metadata="0"/>
+        <NOTE p="36" b="15.306030561295756" l="12.240693153580651" v="70" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 6 Recording 2" type="midi" start="124.80000000000001"
+          length="3.1999999999999886" offset="8.0801622497879038" sync="0"
+          mediaId="4f3cad/3fecedd" colour="709090ee">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <CONTROL b="19.746866420682181" type="64" val="16256" metadata="0"/>
+        <NOTE p="84" b="20.334364586232823" l="10.430035432800651" v="53" c="0"/>
+        <CONTROL b="37.579338240393099" type="64" val="0" metadata="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/2eff1f5f"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/254d024"
+            windowX="458" windowY="794" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........XRdqRBNHbIRURilZnDEzfgk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........fayk292Y.+QQZvz3xquiF7Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........OU6NKxRJTZDuLCIys6cr26h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........cBhKwUTs1XDiRtNqhjFRwfC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA.........PLXhwo7lT8.IZeCQ5MxdZFFk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.P7GzGQquDsOQyBlZfxdX+6NF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAAUXCk+aQmAIMYqJw9fdPZ9L.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.AZ6C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/1e1a1fe8"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="4f3cad/3ccd761" midiVProp="1" inputDevice="" mute="0">
+    <CLIP name="Track 8 Recording 1" type="midi" start="26" length="26.800000000000004"
+          offset="3.6062599374334745" sync="0" mediaId="4f3cad/514ec1"
+          colour="70ee90cf">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="76" b="9.2179270403688776" l="0.40917749574873596" v="83"
+              c="0"/>
+        <NOTE p="77" b="10.215279626496695" l="0.42732292204163969" v="82"
+              c="0"/>
+        <NOTE p="79" b="11.179951443988458" l="0.4253178572980687" v="83" c="0"/>
+        <NOTE p="81" b="12.107180809904449" l="0.44513927481602877" v="80"
+              c="0"/>
+        <NOTE p="79" b="13.070354912266694" l="0.45983992458786815" v="80"
+              c="0"/>
+        <NOTE p="77" b="14.065076298499108" l="0.4677740583429113" v="78" c="0"/>
+        <NOTE p="79" b="15.057760618580133" l="0.4700191254960373" v="82" c="0"/>
+        <NOTE p="76" b="16.060135479853116" l="0.52032531995791942" v="75"
+              c="0"/>
+        <NOTE p="83" b="17.078036959934607" l="0.43700612208340317" v="87"
+              c="0"/>
+        <NOTE p="76" b="18.090084479841963" l="0.43163821566849947" v="77"
+              c="0"/>
+        <NOTE p="84" b="19.045316863990948" l="0.52262892771977931" v="83"
+              c="0"/>
+        <NOTE p="76" b="20.092172288638167" l="0.45550932176411152" v="74"
+              c="0"/>
+        <NOTE p="86" b="21.035299370484054" l="0.51018602680414915" v="80"
+              c="0"/>
+        <NOTE p="76" b="22.045484758051671" l="0.3949717542855069" v="65" c="0"/>
+        <NOTE p="91" b="23.057689578341879" l="2.1125773125095293" v="86" c="0"/>
+        <NOTE p="89" b="25.180525526008196" l="1.0848231567069888" v="73" c="0"/>
+        <NOTE p="88" b="26.204983473359235" l="6.0047808068338782" v="79" c="0"/>
+        <NOTE p="86" b="32.152534996927344" l="1.0477258561877534" v="80" c="0"/>
+        <NOTE p="88" b="33.117751381429471" l="1.1367443937342614" v="73" c="0"/>
+        <NOTE p="84" b="34.155127370683104" l="0.92226089967880398" v="82"
+              c="0"/>
+        <NOTE p="83" b="35.087655520252511" l="2.1200298139592633" v="77" c="0"/>
+        <NOTE p="84" b="37.132102495594509" l="1.0908247582847252" v="75" c="0"/>
+        <NOTE p="81" b="38.146977481734567" l="0.93572838522959501" v="74"
+              c="0"/>
+        <NOTE p="83" b="39.097705867094547" l="1.1044808028964326" v="77" c="0"/>
+        <NOTE p="79" b="40.119847754318826" l="7.2494621382793412" v="78" c="0"/>
+        <NOTE p="79" b="48.097850080881827" l="1.0250536212697625" v="82" c="0"/>
+        <NOTE p="81" b="49.120403701741807" l="1.0825497918995097" v="74" c="0"/>
+        <NOTE p="79" b="50.122609088499658" l="0.94755211728625" v="75" c="0"/>
+        <NOTE p="77" b="51.102851008833014" l="2.1298058127285913" v="74" c="0"/>
+        <NOTE p="79" b="53.125181482825056" l="1.1150657921098173" v="74" c="0"/>
+        <NOTE p="76" b="54.117111489828304" l="1.0603476356482133" v="75" c="0"/>
+        <NOTE p="77" b="55.149720033001714" l="1.0204463783884421" v="72" c="0"/>
+        <NOTE p="72" b="56.155166411259771" l="19.980049632722512" v="75" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 7 Recording 1" type="midi" start="58" length="26.800000000000011"
+          offset="38.817207130467587" sync="0" mediaId="4f3cad/1b447fc"
+          colour="70cf90ee">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="76" b="17.169798425590116" l="0.37788386049214751" v="82"
+              c="0"/>
+        <NOTE p="77" b="18.112528483458291" l="0.41982398775871843" v="72"
+              c="0"/>
+        <NOTE p="79" b="19.087630167911257" l="0.45777569117490202" v="78"
+              c="0"/>
+        <NOTE p="81" b="20.069817625759597" l="0.50302772142458707" v="72"
+              c="0"/>
+        <NOTE p="79" b="21.082255340721886" l="0.47540632716845721" v="77"
+              c="0"/>
+        <NOTE p="77" b="22.089962062151599" l="0.48739055928308517" v="74"
+              c="0"/>
+        <NOTE p="79" b="23.077588782022204" l="0.50195749208796769" v="77"
+              c="0"/>
+        <NOTE p="76" b="24.085269901976417" l="0.52994119469076395" v="72"
+              c="0"/>
+        <NOTE p="83" b="25.126984002842065" l="0.52304974931757897" v="85"
+              c="0"/>
+        <NOTE p="76" b="26.129937677020635" l="0.49768176104407758" v="72"
+              c="0"/>
+        <NOTE p="84" b="27.111661882214676" l="0.53082294180057943" v="89"
+              c="0"/>
+        <NOTE p="76" b="28.125325518036689" l="0.47224449052009732" v="78"
+              c="0"/>
+        <NOTE p="86" b="29.123604298062119" l="0.47382149670738727" v="85"
+              c="0"/>
+        <NOTE p="76" b="30.104671789291743" l="0.39214805292431265" v="77"
+              c="0"/>
+        <NOTE p="91" b="31.112670776625592" l="2.0826365437824279" v="89" c="0"/>
+        <NOTE p="89" b="33.185307320515122" l="1.0720324236899614" v="75" c="0"/>
+        <NOTE p="88" b="34.217484823153782" l="5.9272752032848075" v="81" c="0"/>
+        <NOTE p="86" b="40.069467758718375" l="1.1458298237994313" v="80" c="0"/>
+        <NOTE p="88" b="41.107581176171507" l="1.1499654612271115" v="75" c="0"/>
+        <NOTE p="84" b="42.162572365911174" l="0.99699525278992951" v="83"
+              c="0"/>
+        <NOTE p="83" b="43.154567619045693" l="2.025486474740319" v="82" c="0"/>
+        <NOTE p="84" b="45.127852825522851" l="1.1174708587350324" v="77" c="0"/>
+        <NOTE p="81" b="46.135021944488827" l="0.94741771812550724" v="72"
+              c="0"/>
+        <NOTE p="83" b="47.082439662614334" l="1.107458058395423" v="82" c="0"/>
+        <NOTE p="79" b="48.087744515929799" l="7.2922101221047342" v="77" c="0"/>
+        <NOTE p="79" b="56.115150510874074" l="0.99500618642196059" v="83"
+              c="0"/>
+        <NOTE p="81" b="57.142704131971541" l="1.0875359253259376" v="72" c="0"/>
+        <NOTE p="79" b="58.167470956528987" l="0.90932827850338072" v="72"
+              c="0"/>
+        <NOTE p="77" b="59.147531230543237" l="2.0369893161114305" v="71" c="0"/>
+        <NOTE p="79" b="61.104976643533874" l="1.084671689895913" v="75" c="0"/>
+        <NOTE p="76" b="62.11510976411445" l="0.97715048468671739" v="77" c="0"/>
+        <NOTE p="77" b="63.086767482879068" l="1.0082826862344518" v="75" c="0"/>
+        <NOTE p="72" b="64.080050168983135" l="19.594963179551996" v="83" c="0"/>
+        <NOTE p="76" b="97.192555801435802" l="0.4202036838978529" v="83" c="0"/>
+        <NOTE p="77" b="98.194949988234285" l="0.47252445889171213" v="80"
+              c="0"/>
+        <NOTE p="79" b="99.172697806922216" l="0.46977059275377542" v="82"
+              c="0"/>
+        <NOTE p="81" b="100.1027125916029" l="0.52898715250194073" v="80" c="0"/>
+        <NOTE p="79" b="101.10743291078178" l="0.48733458388596773" v="77"
+              c="0"/>
+        <NOTE p="77" b="102.09001753055999" l="0.49946142360568047" v="75"
+              c="0"/>
+        <NOTE p="79" b="103.0950642503616" l="0.49687550636008382" v="80" c="0"/>
+        <NOTE p="76" b="104.0826131035159" l="0.53481198789086193" v="77" c="0"/>
+        <NOTE p="83" b="105.14495709254915" l="0.53272116230800748" v="87"
+              c="0"/>
+        <NOTE p="76" b="106.13177867765116" l="0.4906800203025341" v="78" c="0"/>
+        <NOTE p="84" b="107.1227580313156" l="0.51736972818616778" v="89" c="0"/>
+        <NOTE p="76" b="108.06241761469791" l="0.49458826368208975" v="71"
+              c="0"/>
+        <NOTE p="86" b="109.07995737025557" l="0.4826535249594599" v="85" c="0"/>
+        <NOTE p="76" b="110.08009902360426" l="0.40012642159126699" v="74"
+              c="0"/>
+        <NOTE p="91" b="111.07738441015171" l="2.0751728105824441" v="91" c="0"/>
+        <NOTE p="89" b="113.15255722073415" l="1.0847254638792947" v="75" c="0"/>
+        <NOTE p="88" b="114.1641760208462" l="6.0227941308403388" v="78" c="0"/>
+        <NOTE p="86" b="120.11494912482375" l="1.0627924912841991" v="85" c="0"/>
+        <NOTE p="88" b="121.11512811198408" l="1.1198902927571908" v="69" c="0"/>
+        <NOTE p="84" b="122.13274573367597" l="1.019955487572588" v="82" c="0"/>
+        <NOTE p="83" b="123.16455148784952" l="2.0055394398514181" v="85" c="0"/>
+        <NOTE p="84" b="125.12256965898486" l="1.1251025594538078" v="77" c="0"/>
+        <NOTE p="81" b="126.14020541352728" l="0.99159459758084267" v="78"
+              c="0"/>
+        <NOTE p="83" b="127.12963254175192" l="1.0763715463690318" v="87" c="0"/>
+        <NOTE p="79" b="128.14760578664061" l="7.1900515846209601" v="82" c="0"/>
+        <NOTE p="79" b="136.08015854419716" l="1.0844167566392571" v="80" c="0"/>
+        <NOTE p="81" b="137.14736279957503" l="1.0826180590083823" v="74" c="0"/>
+        <NOTE p="79" b="138.1274884530161" l="0.95496465160977095" v="77" c="0"/>
+        <NOTE p="77" b="139.11430615508505" l="2.1307007310679182" v="72" c="0"/>
+        <NOTE p="79" b="141.10485184514471" l="1.1147716495906934" v="78" c="0"/>
+        <NOTE p="76" b="142.12767000003294" l="0.9771364089101553" v="75" c="0"/>
+        <NOTE p="77" b="143.08714931698557" l="1.0352797544328496" v="74" c="0"/>
+        <NOTE p="74" b="144.07738270396874" l="19.284944928367679" v="82" c="0"/>
+        <NOTE p="76" b="193.23261099327868" l="0.50114575831685215" v="69"
+              c="0"/>
+        <NOTE p="77" b="194.17516474247026" l="0.49214949307497591" v="78"
+              c="0"/>
+        <NOTE p="79" b="195.13494002733427" l="0.44920049025677145" v="82"
+              c="0"/>
+        <NOTE p="81" b="196.10694331217604" l="0.53518866247031838" v="75"
+              c="0"/>
+        <NOTE p="79" b="197.1170454988773" l="0.47053646063432097" v="77" c="0"/>
+        <NOTE p="77" b="198.09261438537436" l="0.47979299211874604" v="75"
+              c="0"/>
+        <NOTE p="79" b="199.08753203852615" l="0.47491459175944328" v="78"
+              c="0"/>
+        <NOTE p="76" b="200.09493902542675" l="0.5073249276028946" v="80" c="0"/>
+        <NOTE p="83" b="201.12756141503854" l="0.51503029302693903" v="83"
+              c="0"/>
+        <NOTE p="76" b="202.12188016607473" l="0.49695322581101209" v="77"
+              c="0"/>
+        <NOTE p="84" b="203.09430349602411" l="0.54534186027012765" v="80"
+              c="0"/>
+        <NOTE p="76" b="204.09968217178761" l="0.49762736074626446" v="78"
+              c="0"/>
+        <NOTE p="86" b="205.08199734655722" l="0.54540150798857212" v="82"
+              c="0"/>
+        <NOTE p="76" b="206.04489727570257" l="0.43443233473226428" v="69"
+              c="0"/>
+        <NOTE p="91" b="207.08746953211306" l="2.0598981756484136" v="91" c="0"/>
+        <NOTE p="89" b="209.1523020759509" l="1.1165502201765776" v="75" c="0"/>
+        <NOTE p="88" b="210.18258929818916" l="5.8473250444512814" v="78" c="0"/>
+        <NOTE p="86" b="216.00232534094761" l="1.1777645972324535" v="75" c="0"/>
+        <NOTE p="88" b="217.06009703090461" l="1.137180159566924" v="72" c="0"/>
+        <NOTE p="84" b="218.08725385212387" l="1.0075957869412377" v="75" c="0"/>
+        <NOTE p="83" b="219.07734963910701" l="2.140217546839267" v="78" c="0"/>
+        <NOTE p="84" b="221.1499952371982" l="1.13430397992488" v="77" c="0"/>
+        <NOTE p="81" b="222.17996087142313" l="0.94266148284077644" v="77"
+              c="0"/>
+        <NOTE p="83" b="223.11512235419872" l="1.1174756265245378" v="77" c="0"/>
+        <NOTE p="79" b="224.13663842001046" l="7.2225509298732504" v="77" c="0"/>
+        <NOTE p="79" b="232.18137820410124" l="1.012099691433832" v="83" c="0"/>
+        <NOTE p="81" b="233.18891639048746" l="1.098043096717447" v="77" c="0"/>
+        <NOTE p="79" b="234.17730257772422" l="0.98497048544231802" v="77"
+              c="0"/>
+        <NOTE p="77" b="235.16477306357632" l="2.0451307098846883" v="80" c="0"/>
+        <NOTE p="79" b="237.12954401139217" l="1.097803515731357" v="69" c="0"/>
+        <NOTE p="76" b="238.1122639540867" l="1.0175344214076176" v="77" c="0"/>
+        <NOTE p="77" b="239.13229837532202" l="1.0224341548746452" v="75" c="0"/>
+        <NOTE p="74" b="240.10954348412855" l="18.71473281935323" v="77" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP name="Track 7 Recording 1" type="midi" start="96.400000000000006"
+          length="26.80000000000004" offset="38.817207130467594" sync="0"
+          mediaId="4f3cad/2ca5ae7" colour="70cf90ee">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1" name="channel 1">
+        <NOTE p="76" b="17.169798425590116" l="0.37788386049214751" v="82"
+              c="0"/>
+        <NOTE p="77" b="18.112528483458291" l="0.41982398775871843" v="72"
+              c="0"/>
+        <NOTE p="79" b="19.087630167911257" l="0.45777569117490202" v="78"
+              c="0"/>
+        <NOTE p="81" b="20.069817625759597" l="0.50302772142458707" v="72"
+              c="0"/>
+        <NOTE p="79" b="21.082255340721886" l="0.47540632716845721" v="77"
+              c="0"/>
+        <NOTE p="77" b="22.089962062151599" l="0.48739055928308517" v="74"
+              c="0"/>
+        <NOTE p="79" b="23.077588782022204" l="0.50195749208796769" v="77"
+              c="0"/>
+        <NOTE p="76" b="24.085269901976417" l="0.52994119469076395" v="72"
+              c="0"/>
+        <NOTE p="83" b="25.126984002842065" l="0.52304974931757897" v="85"
+              c="0"/>
+        <NOTE p="76" b="26.129937677020635" l="0.49768176104407758" v="72"
+              c="0"/>
+        <NOTE p="84" b="27.111661882214676" l="0.53082294180057943" v="89"
+              c="0"/>
+        <NOTE p="76" b="28.125325518036689" l="0.47224449052009732" v="78"
+              c="0"/>
+        <NOTE p="86" b="29.123604298062119" l="0.47382149670738727" v="85"
+              c="0"/>
+        <NOTE p="76" b="30.104671789291743" l="0.39214805292431265" v="77"
+              c="0"/>
+        <NOTE p="91" b="31.112670776625592" l="2.0826365437824279" v="89" c="0"/>
+        <NOTE p="89" b="33.185307320515122" l="1.0720324236899614" v="75" c="0"/>
+        <NOTE p="88" b="34.217484823153782" l="5.9272752032848075" v="81" c="0"/>
+        <NOTE p="86" b="40.069467758718375" l="1.1458298237994313" v="80" c="0"/>
+        <NOTE p="88" b="41.107581176171507" l="1.1499654612271115" v="75" c="0"/>
+        <NOTE p="84" b="42.162572365911174" l="0.99699525278992951" v="83"
+              c="0"/>
+        <NOTE p="83" b="43.154567619045693" l="2.025486474740319" v="82" c="0"/>
+        <NOTE p="84" b="45.127852825522851" l="1.1174708587350324" v="77" c="0"/>
+        <NOTE p="81" b="46.135021944488827" l="0.94741771812550724" v="72"
+              c="0"/>
+        <NOTE p="83" b="47.082439662614334" l="1.107458058395423" v="82" c="0"/>
+        <NOTE p="79" b="48.087744515929799" l="7.2922101221047342" v="77" c="0"/>
+        <NOTE p="79" b="56.115150510874074" l="0.99500618642196059" v="83"
+              c="0"/>
+        <NOTE p="81" b="57.142704131971541" l="1.0875359253259376" v="72" c="0"/>
+        <NOTE p="79" b="58.167470956528987" l="0.90932827850338072" v="72"
+              c="0"/>
+        <NOTE p="77" b="59.147531230543237" l="2.0369893161114305" v="71" c="0"/>
+        <NOTE p="79" b="61.104976643533874" l="1.084671689895913" v="75" c="0"/>
+        <NOTE p="76" b="62.11510976411445" l="0.97715048468671739" v="77" c="0"/>
+        <NOTE p="77" b="63.086767482879068" l="1.0082826862344518" v="75" c="0"/>
+        <NOTE p="72" b="64.080050168983135" l="19.594963179551996" v="83" c="0"/>
+        <NOTE p="76" b="97.192555801435802" l="0.4202036838978529" v="83" c="0"/>
+        <NOTE p="77" b="98.194949988234285" l="0.47252445889171213" v="80"
+              c="0"/>
+        <NOTE p="79" b="99.172697806922216" l="0.46977059275377542" v="82"
+              c="0"/>
+        <NOTE p="81" b="100.1027125916029" l="0.52898715250194073" v="80" c="0"/>
+        <NOTE p="79" b="101.10743291078178" l="0.48733458388596773" v="77"
+              c="0"/>
+        <NOTE p="77" b="102.09001753055999" l="0.49946142360568047" v="75"
+              c="0"/>
+        <NOTE p="79" b="103.0950642503616" l="0.49687550636008382" v="80" c="0"/>
+        <NOTE p="76" b="104.0826131035159" l="0.53481198789086193" v="77" c="0"/>
+        <NOTE p="83" b="105.14495709254915" l="0.53272116230800748" v="87"
+              c="0"/>
+        <NOTE p="76" b="106.13177867765116" l="0.4906800203025341" v="78" c="0"/>
+        <NOTE p="84" b="107.1227580313156" l="0.51736972818616778" v="89" c="0"/>
+        <NOTE p="76" b="108.06241761469791" l="0.49458826368208975" v="71"
+              c="0"/>
+        <NOTE p="86" b="109.07995737025557" l="0.4826535249594599" v="85" c="0"/>
+        <NOTE p="76" b="110.08009902360426" l="0.40012642159126699" v="74"
+              c="0"/>
+        <NOTE p="91" b="111.07738441015171" l="2.0751728105824441" v="91" c="0"/>
+        <NOTE p="89" b="113.15255722073415" l="1.0847254638792947" v="75" c="0"/>
+        <NOTE p="88" b="114.1641760208462" l="6.0227941308403388" v="78" c="0"/>
+        <NOTE p="86" b="120.11494912482375" l="1.0627924912841991" v="85" c="0"/>
+        <NOTE p="88" b="121.11512811198408" l="1.1198902927571908" v="69" c="0"/>
+        <NOTE p="84" b="122.13274573367597" l="1.019955487572588" v="82" c="0"/>
+        <NOTE p="83" b="123.16455148784952" l="2.0055394398514181" v="85" c="0"/>
+        <NOTE p="84" b="125.12256965898486" l="1.1251025594538078" v="77" c="0"/>
+        <NOTE p="81" b="126.14020541352728" l="0.99159459758084267" v="78"
+              c="0"/>
+        <NOTE p="83" b="127.12963254175192" l="1.0763715463690318" v="87" c="0"/>
+        <NOTE p="79" b="128.14760578664061" l="7.1900515846209601" v="82" c="0"/>
+        <NOTE p="79" b="136.08015854419716" l="1.0844167566392571" v="80" c="0"/>
+        <NOTE p="81" b="137.14736279957503" l="1.0826180590083823" v="74" c="0"/>
+        <NOTE p="79" b="138.1274884530161" l="0.95496465160977095" v="77" c="0"/>
+        <NOTE p="77" b="139.11430615508505" l="2.1307007310679182" v="72" c="0"/>
+        <NOTE p="79" b="141.10485184514471" l="1.1147716495906934" v="78" c="0"/>
+        <NOTE p="76" b="142.12767000003294" l="0.9771364089101553" v="75" c="0"/>
+        <NOTE p="77" b="143.08714931698557" l="1.0352797544328496" v="74" c="0"/>
+        <NOTE p="74" b="144.07738270396874" l="19.284944928367679" v="82" c="0"/>
+        <NOTE p="76" b="193.23261099327868" l="0.50114575831685215" v="69"
+              c="0"/>
+        <NOTE p="77" b="194.17516474247026" l="0.49214949307497591" v="78"
+              c="0"/>
+        <NOTE p="79" b="195.13494002733427" l="0.44920049025677145" v="82"
+              c="0"/>
+        <NOTE p="81" b="196.10694331217604" l="0.53518866247031838" v="75"
+              c="0"/>
+        <NOTE p="79" b="197.1170454988773" l="0.47053646063432097" v="77" c="0"/>
+        <NOTE p="77" b="198.09261438537436" l="0.47979299211874604" v="75"
+              c="0"/>
+        <NOTE p="79" b="199.08753203852615" l="0.47491459175944328" v="78"
+              c="0"/>
+        <NOTE p="76" b="200.09493902542675" l="0.5073249276028946" v="80" c="0"/>
+        <NOTE p="83" b="201.12756141503854" l="0.51503029302693903" v="83"
+              c="0"/>
+        <NOTE p="76" b="202.12188016607473" l="0.49695322581101209" v="77"
+              c="0"/>
+        <NOTE p="84" b="203.09430349602411" l="0.54534186027012765" v="80"
+              c="0"/>
+        <NOTE p="76" b="204.09968217178761" l="0.49762736074626446" v="78"
+              c="0"/>
+        <NOTE p="86" b="205.08199734655722" l="0.54540150798857212" v="82"
+              c="0"/>
+        <NOTE p="76" b="206.04489727570257" l="0.43443233473226428" v="69"
+              c="0"/>
+        <NOTE p="91" b="207.08746953211306" l="2.0598981756484136" v="91" c="0"/>
+        <NOTE p="89" b="209.1523020759509" l="1.1165502201765776" v="75" c="0"/>
+        <NOTE p="88" b="210.18258929818916" l="5.8473250444512814" v="78" c="0"/>
+        <NOTE p="86" b="216.00232534094761" l="1.1777645972324535" v="75" c="0"/>
+        <NOTE p="88" b="217.06009703090461" l="1.137180159566924" v="72" c="0"/>
+        <NOTE p="84" b="218.08725385212387" l="1.0075957869412377" v="75" c="0"/>
+        <NOTE p="83" b="219.07734963910701" l="2.140217546839267" v="78" c="0"/>
+        <NOTE p="84" b="221.1499952371982" l="1.13430397992488" v="77" c="0"/>
+        <NOTE p="81" b="222.17996087142313" l="0.94266148284077644" v="77"
+              c="0"/>
+        <NOTE p="83" b="223.11512235419872" l="1.1174756265245378" v="77" c="0"/>
+        <NOTE p="79" b="224.13663842001046" l="7.2225509298732504" v="77" c="0"/>
+        <NOTE p="79" b="232.18137820410124" l="1.012099691433832" v="83" c="0"/>
+        <NOTE p="81" b="233.18891639048746" l="1.098043096717447" v="77" c="0"/>
+        <NOTE p="79" b="234.17730257772422" l="0.98497048544231802" v="77"
+              c="0"/>
+        <NOTE p="77" b="235.16477306357632" l="2.0451307098846883" v="80" c="0"/>
+        <NOTE p="79" b="237.12954401139217" l="1.097803515731357" v="69" c="0"/>
+        <NOTE p="76" b="238.1122639540867" l="1.0175344214076176" v="77" c="0"/>
+        <NOTE p="77" b="239.13229837532202" l="1.0224341548746452" v="75" c="0"/>
+        <NOTE p="74" b="240.10954348412855" l="18.71473281935323" v="77" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="volume" id="0/2d4a287f"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/3bc535c5"
+            windowX="477" windowY="794" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........f.t12yX7+CQCFfhiwoTDSgk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........3AwlvIQI+pRr1CYU3Emie3Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........rfqB6xQyffzoOH4vCv+..5h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........3OsdYmHOMAzgc5Q4kNqmHfC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA.........vnAYmssyf5HgHnqhdWw.FnFk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.PndPvzAS2yiRCpUCaBZguEJF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAAVYg9it+dzIkY+P4fBLdY9L.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.A55C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/3de8b838"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="4f3cad/245ce4f8" midiVProp="1" inputDevice="">
+    <FILTER type="volume" id="0/26bc0124"/>
+    <FILTER type="vst" uid="4e694d61" filename="C:\Program Files\Native Instruments\VSTPlugins 64 bit\Massive.dll"
+            name="Massive" manufacturer="Native Instruments GmbH" id="0/15fd2bdb"
+            windowX="455" windowY="794" windowLocked="0" programNum="0" state="3693.CMlaKA....fQBMDZ....A3TZMEF...P......B............................................................................................................................................................................PCM2bC........A....f1bo4V..........X96uMRSqaMQn5Zy4d9nDigk.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF.....BvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjSkA...rOC........A....f1bo4V..........PhN+yzGPbvSShILfnNLkE8Z.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......b....P.....I....DC.t.PM.3B.w.fK.XC.y.vM.D....v..........PzTI4Da....dI........P.....nMWZtE..........Im5WUYVuLbDqjqNu8NLzh6h.........DMURNwF...P.....X..........QSkjSA....D....P.....A....H....P..........X....vT.DF.zAPc.HG.gAPC....SA.c.TF.vA.Z.DF.tA.H.HE.0APY.fF.rAfD....NAPX.PG.oAfc.TF.f.PR.3F.yA.c.HG.0APa.TF.tA.c.LG...........v+++++..........................P.....A....H....vA....MAPX.LG.yAPZ.XG.kAfC....MAPX.LG.yAPZ.XG.kA.H.TD.3A.b.3B.f.PL.P....PC....DAPZ.bF.oA.c.DF.rA.H..E.oAPX.3F.uAfB....PAPZ.DF.tAva.7B.KAPY.jG.yAPB....PAfb.7F.iAPY.LG.yAPY.PF.I....LE.4Afa.PG.nAPY.PG.oAvX......vA....G....vE..AvX.7F.rAva.HG.A.....C.Q....vE..A.Y.TF.1APZ.LF.kA.c.jG.vAPY.XF.rAPX.bF.yAP.....w.vB....bA.P.LG.uAPc.3F.jA.c.jG.vAPY.D.....L.b.....W..D.zAPY.zF.vAva.D.....L.X.....W..D.1APY.HG.rAPA....w.fK.bC.t..N.X.....W..D.1APY.HG.sAPA....w.fK.bC.t..N.b.....W..D.1APZ.LG.oAfX.D.....L.D..........B....PzTI4Td....nA........P.....nMWZtE..........ZAtNhtNfZvDsxZDN+bFHjiC.........DMURNkG...P.....X..........QSkjSA....D....P.....A....D..........A.........P.....DMURNQG...fcI........D.....ZyklaA..........WMJthIM5REEZNzQEHfaj8Fk.........QSkjSzA...D....PKI........PzTI4zb....A....fA.........DMURNE....P.....A....D....P.PZA..POB..f.PZA.fA..A.RACf1bo4FPG.D.P3ZG92JTHt0S+xt0RaoanuGF.QAH.L.QSkjS.MB3GL.P..zF.zFHHD.OV.BAf..Pi.9.SAgbgpHaQpKWKIIExr1zC19dL.5I.eCPu.9EmAzHAPbEfvEH..PAfL..3.5BCP2bxAGf6D.b9.hEfBP..9CfC.P3fKvD...HS.D.ftQA.6wO...FfL.H.D.fzBxI.cAX..xD.s.PC.L..jBHS.D..LDHmD.58.TBB...v.5D.8BX.LvO..Xlf7AHG.d...5B.3.fGD.fQ.xA.cE.mAxANjnO..Xj9...o3C..VtO..D.A.7NfbAPe.xFfc.PK.7P.c.AZ6C..pBHi.zqD7sO...2fL.H.b.PC8C..KyO..H..c.HC.NA6.tE..zJ.M.f.nvsa2tOTnPA+TmNc.xQfeA...anO.L..cD3CL.HKB.P.cM.MAxAfL.PO.dA..zCfOv.fWA.A.HhfLOA46C..ZHHCHf89..3ArC3G..3CLEHKf.f+D....P.EDfXqAzB.H.HOH.f...XCHzTf....BBT.M.Pvv..+78887SrSryOoVoV.xCHT..OfL.PG.z.fOxBfiAaB....A5.A.3Of6.KfA.Hj.D..wR..PCHC.dAYovQtQlO9Sod9.+.+BhxfwxB+74447CakZwO6D6Df+QV..EXYAz3.M.PmCD..s.PZB9.O.zDfC..fw.A.C....DfJ.P..AgBG....Pkbk01ar8VPkUfSuk1bkg.HSLPPrkVXjjW.mQ.HKP.QoIGcF.xAEHUY1UlbhATGGzTZtkVaooWY.UQAMElamwVY.cjARUFakE1bkAjL.Av.UUUJAADj.A..+CB..c.vI.DQ...vn...gPU.C..P.DHW.B.Hw.NAx.PB.YA3IHC3IfBP..xNfvC.J.jBfOfLfefiA.3O.1Q.K..H..z+A.D.fG.LfOwu.z.Hm.NAYA1uA.HJhkHP.Dv89BRffHHP..BBfj..N.jB.5FP..pLfbPovAB.fbBHn.D.ff.HI.vC.o.3CHC3O7K.P.DJ.8K.OABB.CC3S7K.R.xIfC.J...HDB1ufb.H2ABd.A.HH.NAI.vD.QAvaA..fnBfxDv89.xIfS.J.A.HR.xD.PAPJ.9.x.3u.LK3.HS..9KHm.BJl8BP+BD.BYYPPBHN..jHwF.HAA3Z.eEP..xMffCP..BBfj..g.jB.JC...l9fmgL.HBHo.N.xD....rm.GEP..hVfrE.i.jB.A.feA9.RFvq9.jqf.f..dwOg45....fJDpzAPB.f..fx.9GRBPIfjB3.HC...tDRFfI..B..s0PIAzA.B.vCG.f+HlDfA.HBCxv.fBPK.dBn.rG.A.Hm.BJ.jBPJ.VJ.0BPC.H..qEvm.D.f.CHw.fJ.o.PnXvpppJvqppJiCQ8.rBPn.JM.d.v.DDQ.s.PEAD.hOwt.vAPf.DL.A.Pz.L..yC...N.qFP39L9AbEPG..B.fG.J..rnRBHRfX.H..jSB...d.RBfK.J.2O.lJN.6BLJ.7AHI.tBn...fdDP..XTA.B.f..3AnGvQArG.A.fn.fF.o.PfCdBrDfH+PlQfA.frj1W.hB..OhJA.LPCNFvd.D..hB.W.jBkQDHaATWfVCA.9K....3PTS.DB.H..nWfWAJATH.f..PnXv5QYHP+hEqfCQT.XHHm.FJ...3VDU.GB.H..TT.BP3Q7R.m..H..HJnsM.+Fn.DyEP.Dn..XCPJ.HJ.A.vQQpxgLAo+GP.9CxKfhB3BTe..1Q4.3A..QJtAfC.f..3fDE.B.R..A.vvHvpppZZeBzAfzGX..RdhzG.ABzB.aR....PVCD.IZBP..RIfXB.BBjB.ZBfmBdAEEvf..B..IGfhT.PBC..PJDPhH.Jb8fnGGve..B..5APGBfJj4r.fqGkf5Q..B.P..7GA...fe.fA3G.fG....BJSCvrfL.f..jcB..HzkFDCEKP1AD.fcA3B..3ibgQU.zKEoM3QLI.ZATWfGgG.3E3U3A.hAdEd.fYfWgG.nFvdb.a+TfPPow1BCjq.APHtFxq.3FPJ.dDZBfbfWgG.XG3K3g.fT3ZnpV.5A.3T.P3UPC.aAzNfGQl.7E3M3A.QMJD.LF3M3A...p8.bFHI.tDbAvZfzAXdDdCz.vafzAXd.H.heffALG.f..3QjK.2ARGfqfGAngOnwY..rGHC.tB.zTY.YQ3UPC.bAjHfGgdA.F.f..3Q3A.jARGfKgG.fFHc.NBdH.dT35nYB.afzAXdDdCz..bfzAXd.H.ge.MAPG.f..3QnI.3ARGfKgG.vGHc.tB.3jk.YQ3UPC.cAjHfGgd.DF3U3A.kAdEd.PZfWgGQg.X6EdCz.PbfzAXd.H.ge.MATG.f..3QjK.4ARGfqfG.XknoAPefzA3J...085w.cEPC.H.fpm..V0OrkF..HFi.5gQKL.f+F...B.IVQxU.HDPL.nG.A.n8.B.fzAHd.fQfj.X.nTn.D.fm..1lvP.PLD3EXD.5.FIH1wRMBTJ.M.f..9AUE15.5A3KLY.CA.H..nG.A.3GzS.GA.n..zjfdB3KLI.6.RGfLI.A.TpfmwjM8KnLA9BSF.Q..B.fGwj.fDHc.F.fawjOJF3WLY..9SaxD..AAx.fRG3KLY.EA.H..dDSBPRfzAX..tEShFRgKvtGdF.CDBoHaN3BrP..K.3BbA3Br...B3HCA7S6.9.UB3S..fnQAD.hnkHaA.K.o.3afB.s.9Gn.fKf+AJ.7BPn.h7fHLHC.7A.wKP..dBSJPi9DAPX.F.frKH7B.L.s.3IfR.d6CTNCD.ATsuukR..DCHC.tBn.7Q.A.HPART.HCPJ.dBQArG.A.Hm.BJ.LCPJ.VJBWMPG.DwB...vmBo.q5.q4VXhAj2.CPZQBHOE...iQmao4D..MeyvKnk.f.HIMAEA.PEB.fEC.vED..FE.PFF.fFG.Ve.+o.ykVcmSflFbFbzMVVT0jXQtPChUVgA.........P......D.........."/>
+    <FILTER type="level" id="0/35043097"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>
